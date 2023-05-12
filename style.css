@@ -1,0 +1,38 @@
+h1{
+  font-family: Roboto-slab;
+  font-size: 2rem;
+}
+.nav{
+  display: flex;
+  justify-content: center;
+}
+.pool{
+  width: 400px;
+  height: 300px;
+  border-radius: 20px;
+}
+.gym{
+  width: 400px;
+  height: 300px;
+  border-radius: 20px;
+}
+.beach{
+  width: 400px;
+  height: 300px;
+  border-radius: 20px;
+}
+.spa{
+  width: 400px;
+  height: 300px;
+  border-radius: 20px;
+}
+.vollyball{
+  width: 400px;
+  height: 300px;
+  border-radius: 20px;
+}
+.barbeque{
+  width: 400px;
+  height: 300px;
+  border-radius: 20px;
+}
