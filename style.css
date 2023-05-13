@@ -7,28 +7,47 @@ h1{
   justify-content: center;
 }
 .pool{
-
+  width: 400px;
+  height: 300px;
   
   border-radius: 20px;
 }
 .gym{
-  
+    width: 400px;
+  height: 300px;
   
   border-radius: 20px;
 }
 .beach{
-
+  width: 400px;
+  height: 300px;
   border-radius: 20px;
 }
 .spa{
-  
+    width: 400px;
+  height: 300px;
   border-radius: 20px;
 }
 .vollyball{
-
+  width: 400px;
+  height: 300px;
   border-radius: 20px;
 }
 .barbeque{
-
+  width: 400px;
+  height: 300px;
   border-radius: 20px;
 }
+@media (max-width:800px){
+  .img-box{
+    width: 300px;
+    height:250px
+  }
+}
+@media (max-width:600px){
+  .img-box{
+    width: 250px;
+    height:200px
+  }
+}
+
