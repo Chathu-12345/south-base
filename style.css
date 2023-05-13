@@ -9,13 +9,11 @@ h1{
 .pool{
   width: 400px;
   height: 300px;
-  
   border-radius: 20px;
 }
 .gym{
-    width: 400px;
+  width: 400px;
   height: 300px;
-  
   border-radius: 20px;
 }
 .beach{
@@ -24,7 +22,7 @@ h1{
   border-radius: 20px;
 }
 .spa{
-    width: 400px;
+  width: 400px;
   height: 300px;
   border-radius: 20px;
 }
