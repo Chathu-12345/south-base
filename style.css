@@ -6,6 +6,8 @@ h1{
   display: flex;
   justify-content: center;
 }
+
+
 .pool{
   width: 400px;
   height: 300px;
